@@ -1,3 +1,6 @@
+---
+permalink: /projects.html
+---
 <!DOCTYPE html>
 <html class="text-start" lang="en">
 
