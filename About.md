@@ -1,6 +1,4 @@
----
-permalink: /about.html
----
+
 <!DOCTYPE html>
 <html lang="en">
 
